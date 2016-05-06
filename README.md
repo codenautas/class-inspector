@@ -1,5 +1,5 @@
 class-inspector
 =================
 
-Get all properties of the class and its ancestors.
+Get static and instance methods of a class.
 

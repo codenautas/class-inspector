@@ -1,7 +1,7 @@
 {
   "name": "class-inspector",
   "version": "0.0.1",
-  "description": "Get all properties of the class and its ancestors.",
+  "description": "Get static and instance methods of a class.",
   "homepage": "https://github.com/seandou/class-inspector",
   "repository": {
     "type": "git",
@@ -22,7 +22,8 @@
     
   },
   "devDependencies": {
-    "mocha": "^2.2.4"
+    "mocha": "^2.3.4",
+    "chai": "^3.4.1"
   },
   "engines": {
     "node": ">= 4"
