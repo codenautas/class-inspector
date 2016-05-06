@@ -1,6 +1,6 @@
 {
   "name": "class-inspector",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get static and instance methods of a class.",
   "homepage": "https://github.com/seandou/class-inspector",
   "repository": {
@@ -18,16 +18,12 @@
     }
   ],
   "main": "src/index.js",
-  "dependencies": {
-    
-  },
+  "dependencies": {},
   "devDependencies": {
     "mocha": "^2.3.4",
     "chai": "^3.4.1"
   },
   "engines": {
     "node": ">= 4"
-  },
-  "homepage": "https://github.com/seandou/class-inspector"
+  }
 }
-
