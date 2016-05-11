@@ -1,11 +1,11 @@
 {
   "name": "class-inspector",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Get static and instance methods of a class.",
-  "homepage": "https://github.com/seandou/class-inspector",
+  "homepage": "https://github.com/koa-ship/class-inspector",
   "repository": {
     "type": "git",
-    "url": "git@github.com:seandou/class-inspector.git"
+    "url": "git@github.com:koa-ship/class-inspector.git"
   },
   "keywords": [
     "class",
